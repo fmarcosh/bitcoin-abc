@@ -1,0 +1,26 @@
+{
+    "fb-locale": "es_ES",
+    "translations": {
+        "t+5SwD1ho9xhYy5PlfAPGg==": {
+            "translations": [
+                {
+                    "translation": "Monedero"
+                }
+            ]
+        },
+        "fXmXHZxGc0NA87a+A1ppng==": {
+            "translations": [
+                {
+                    "translation": "Enviar"
+                }
+            ]
+        },
+        "M8PvPwXAFjS9vGdEg8xnWw==": {
+            "translations": [
+                {
+                    "translation": "Configurar"
+                }
+            ]
+        }
+    }
+}
